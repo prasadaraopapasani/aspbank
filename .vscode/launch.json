@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RegistrationAuthencationAppApplication",
+            "request": "launch",
+            "mainClass": "com.asp.bank.registration.RegistrationAuthencationAppApplication",
+            "projectName": "registration-authencation-app"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PrasadbankApplication<prasadbank>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.prasad.bank.prasadbank.PrasadbankApplication",
+            "projectName": "prasadbank",
+            "args": ""
+        }
+    ]
+}

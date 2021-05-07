@@ -4,4 +4,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'prasadbank'
+rootProject.name = 'registration-authencation-app'
